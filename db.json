@@ -30,5 +30,17 @@
         "time": "11:00",
         "organizer": "Carey Wales"
       }
+    ],
+
+    "people": [
+        {
+            "name": "Blake"
+        },
+        {
+            "name": "Jeff"
+        },
+        {
+            "name": "Susan"
+        }
     ]
   }
